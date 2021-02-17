@@ -1,0 +1,38 @@
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\Common\obj\Debug\netcoreapp3.1\Common.pdb

@@ -1,0 +1,360 @@
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\VisionAppApi.exe
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\VisionAppApi.deps.json
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\VisionAppApi.runtimeconfig.json
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\VisionAppApi.runtimeconfig.dev.json
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\VisionAppApi.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\VisionAppApi.pdb
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ElmahCore.Mvc.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ElmahCore.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ElmahCore.Sql.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Ical.Net.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\NodaTime.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\NPOI.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.csprojAssemblyReference.cache
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.csproj.CoreCompileInputs.cache
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.AssemblyInfoInputs.cache
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.AssemblyInfo.cs
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.RazorTargetAssemblyInfo.cache
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.csproj.CopyComplete
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\staticwebassets\VisionAppApi.StaticWebAssets.Manifest.cache
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\staticwebassets\VisionAppApi.StaticWebAssets.xml
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.dll
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.pdb
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.genruntimeconfig.cache
+C:\Users\sheetal.kadam\Project\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\VisionAppApi.exe
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\VisionAppApi.deps.json
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\VisionAppApi.runtimeconfig.json
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\VisionAppApi.runtimeconfig.dev.json
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\VisionAppApi.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\VisionAppApi.pdb
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ElmahCore.Mvc.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ElmahCore.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ElmahCore.Sql.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Ical.Net.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\NodaTime.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\NPOI.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.csprojAssemblyReference.cache
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.AssemblyInfoInputs.cache
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.AssemblyInfo.cs
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.csproj.CoreCompileInputs.cache
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.RazorTargetAssemblyInfo.cache
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.csproj.CopyComplete
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\staticwebassets\VisionAppApi.StaticWebAssets.Manifest.cache
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\staticwebassets\VisionAppApi.StaticWebAssets.xml
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.dll
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.pdb
+C:\Users\sumant\Desktop\New folder\SD2\core\TwilioAPI2\PractitionerBackEnd\VisionAppApi\obj\Debug\netcoreapp3.1\VisionAppApi.genruntimeconfig.cache
